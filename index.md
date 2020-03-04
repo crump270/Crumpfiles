@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to The Crump Files
 
-You can use the [editor on GitHub](https://github.com/crump270/Crumpfiles/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Good Morning, good evening, or good afternoon. Thankyou for stopping by and seeing what I have cooking up in the Crump Files. My name is Ronald Crumpton also known as Crump. Raised in Radcliff,  I've done a lot in my young life, lived the college life, enjoyed my basketball career, went through the rigors of the military; and I loved every chapter that I went through. Enjoy the Show!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+INFO
+Description
+NEW!!!
+Coming Soon
+Photos
+Videos
+People To Follow
+
+Follow and Subscribe
 
 ### Markdown
 
